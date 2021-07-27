@@ -9,6 +9,8 @@ public class Solution01 {
     static char aChar;
 
     public static void main(String[] args) {
+        //Output: int = 0
+        //char =  
         System.out.println("int = " + anInt + "\nchar = " + aChar);
     }
 }
